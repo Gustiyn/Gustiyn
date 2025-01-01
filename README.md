@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Gustiyn
 - 👀 I’m interested in improving my knowledge of data management
-- 🌱 I’m currently learning SQL, Python, and Power BI
+- 🌱 I’m currently working to improve my skills in SQL, Python, and Power BI
 - 💞️ I’m looking to collaborate on everything related to data analysis and visualization
-- 📫 How to reach me? Just send me a message :)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm a fun guy!
+- 📫 How to reach me? Just send me a message on LinkedIn: https://www.linkedin.com/in/komlan-augustin-n-guissan/
 
 <!---
 Gustiyn/Gustiyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
